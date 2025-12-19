@@ -28,24 +28,6 @@ Download and install VS Code. When you open it, choose "Clone Git Repository" to
 
 
 You can then use VS Code for editing and [Git actions](https://code.visualstudio.com/docs/sourcecontrol/overview). Please refer to the [VS Code documentation](https://code.visualstudio.com/docs/) for more information. 
-
-### Using Codespaces
-
-Alternatively, you can use the online [Codespaces](https://github.com/features/codespaces) environments for development. Please read more about this feature through the following [link](https://github.com/features/codespaces). This option is available to you through the "Code" button as shown in the image below. This starts an online space for you to edit, test, and commit your work.
-
-<img src="assets/images/codespace-button.png" width="400" />
-
-### Using the Git CLI
-
-Finally, if you are an advanced user, you can simply clone your repository to your local machine using the Git command line interface in the terminal, and then use any text editing software you prefer to edit the files. 
-
-Use the terminal to commit and push your files and run the local test server.
-
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-```
-
 ---
 
 ## Editing the Files to Personalize Your Portfolio

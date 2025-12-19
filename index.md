@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Ari Rabinovitz>
 ---
 
 ## About Me
