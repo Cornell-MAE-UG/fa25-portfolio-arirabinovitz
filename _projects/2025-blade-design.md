@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Airfoil Blade Project
+title: Airfoil Blade
 description: Blade Design Project
 technologies: [MATLAB, Autodesk Fusion]
 image: /assets/images/git1.png
