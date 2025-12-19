@@ -18,21 +18,17 @@ permalink: /cv/
   *Bachelor of Science in Mechanical Engineering*  
   GPA: 4.12/4.30| Graduation: May, 2026
 
-- **Charles E Smith Jewish Day School**  
-  *High School Diploma*  
-  Graduation: [Jan, Year]
-
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, Autodesk Inventor, ANSYS  
+- **Programming:** MATLAB  
+- **Tools:** 3D Printing, Mill, Lathe
 
 #### Work Experience
 - **Physical Sciences Inc. - Deployable Technologies Intern**  
   [June, 2025] - [August, 2025]  
-Designed and iterated on a quick-release gripper using SolidWorks and 3D-printed prototypes, each capable
+• Designed and iterated on a quick-release gripper using SolidWorks and 3D-printed prototypes, each capable
 of supporting 165 lbs. and integrated into a rescue litter carry device intended for long-distance transports.
 • Demonstrated satisfaction of gripper’s design requirements through experimental tests and finite element
 analysis (SolidWorks simulation) with mass-production gripper material.
@@ -44,8 +40,8 @@ analysis (SolidWorks simulation) with mass-production gripper material.
 
 #### Extracurricular Activities
 
-**Cornell Mars Rover Project Team - Lead, Arm sub-team**
-
+- **Cornell Mars Rover Project Team - Lead, Arm sub-team**
+  [October, 2022] - Present 
 • Designed end effector and structural joints for a six-axis robotic manipulator assigned to perform complex
 tasks including typing, flipping switches, picking up rocks, and securing a door with a screw.
 • Successfully reduced moment on the base gearbox by 12 percent through shifting gearbox and motor
