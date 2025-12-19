@@ -6,7 +6,7 @@ technologies: [MATLAB, Autodesk Fusion]
 image: /assets/images/git1.png
 ---
 
-For a class, we were asked to design an airfoil. The goal was to design an airfoil to operate at a fixed rotation rate, while operating in wind conditions told to us according to a Weibull distribution. We were asked to design this to learn how to optimize a design, we chose to optimize our design for power at our chosen rotation rate of 1000 RPM.
+For my class MAE 4272, we were asked to design an airfoil. The goal was to design an airfoil to operate at a fixed rotation rate, while operating in wind conditions told to us according to a Weibull distribution. We were asked to design this to learn how to optimize a design, we chose to optimize our design for power at our chosen rotation rate of 1000 RPM.
 
 Given our Weibull Distribtion, we calculated which wind speed to design for, which was determined to be 5.05 m/s. You can see the peak in the following figure: 
 
