@@ -8,23 +8,19 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [abr229@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +1 240 205 5962
 
 ---
 
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
----
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 4.12/4.30| Graduation: May, 2026
 
-- **[High School Name]**  
+- **Charles E Smith Jewish Day School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [Jan, Year]
 
 ---
 
@@ -33,38 +29,29 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 - **Programming:** Python, MATLAB  
 - **Tools:** 3D Printing, Laser Cutting  
 
----
-
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **Physical Sciences Inc. - Deployable Technologies Intern**  
+  [June, 2025] - [August, 2025]  
+Designed and iterated on a quick-release gripper using SolidWorks and 3D-printed prototypes, each capable
+of supporting 165 lbs. and integrated into a rescue litter carry device intended for long-distance transports.
+• Demonstrated satisfaction of gripper’s design requirements through experimental tests and finite element
+analysis (SolidWorks simulation) with mass-production gripper material.
+• Integrated sensors to test fuel pump intended for use with low lubricity fluids.
+• Assisted in ideation of mobile lightweight folding bridge that can deploy and be retrieved in under
+5 minutes and span a 15-meter gap while maintaining a load of 60 tons.
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+
+**Cornell Mars Rover Project Team - Lead, Arm sub-team**
+
+• Designed end effector and structural joints for a six-axis robotic manipulator assigned to perform complex
+tasks including typing, flipping switches, picking up rocks, and securing a door with a screw.
+• Successfully reduced moment on the base gearbox by 12 percent through shifting gearbox and motor
+locations in the arm’s structure.
+• Utilized finite element analysis (ANSYS) to demonstrate that arm CNC joints can sustain loads up to 5 kg.
+• Added functionality to end effector to fasten a screw, creating rotation and linear motion in one mechanism.
 
 ---
 
