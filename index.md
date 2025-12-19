@@ -6,11 +6,9 @@ title: <Ari Rabinovitz>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.png" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My name is Ari Rabinovitz, and I am a Mechanical Engineering at Cornell University. I am passionate about exploring space further, and plan to receive a Master's of Science in Aerospace Engineering. I have gone into depth on a variety of baseline engineering subjects such as Statics, Dynamics, Heat Trasnfer, Fluids, and Materials, and more complex subjects such as Introduction to Spacelfight Mechanics, Aerospace Propulsion, and Intermediate Dynamics. I am excited to work on design projects, and am the leader of the arm sub-team for the Cornell Mars Rover Project Team, where we build a rover that completes tasks such as picking up rocks, operating a joystock, and typing on a keyboard. I am excited to have you look at my work. Additionally, I am proud of my work this past semester in my Heat Transfer and Fluids Laboratory course.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
