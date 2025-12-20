@@ -12,7 +12,8 @@ The Boeing 737 Max incident was due to a failure of engineering ethics from the 
 To summarize the incident, the Boeing 737 Max had two fatal accidents, each of which killed all of its passengers. Each accident was due to the failure of the onboard MCAS system. The MCAS system pitched the nose down of the airplane if it ever detected that it was too high and the airplane had stalled.
 <br>
 <br>
-	Now let's delve into the errors and ethical solutions.
+	Now let's delve into the errors and ethical solutions:
+    <br>
 <br>
 Why did MCAS fail? MCAS relied on the angle of attack sensor, which was known to often be unreliable and fail. A system that controls the plane independently of pilots should not rely on a faulty sensor. MCAS either should have relied on a different sensor or developed a better sensor, or MCAS should have been much easier to turn off. 
 <br>
