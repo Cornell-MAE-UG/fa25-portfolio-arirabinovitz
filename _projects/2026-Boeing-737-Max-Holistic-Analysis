@@ -8,31 +8,44 @@ image: /assets/images/git4.png
 
 The Boeing 737 Max incident was due to a failure of engineering ethics from the individual level to the systemic level. Multiple decisions across multiple years allowed for the disaster to occur. In reviewing the situation, it reveals that there is much to fix for engineer’s ethics across the board. 
 <br>
+<br>
 To summarize the incident, the Boeing 737 Max had two fatal accidents, each of which killed all of its passengers. Each accident was due to the failure of the onboard MCAS system. The MCAS system pitched the nose down of the airplane if it ever detected that it was too high and the airplane had stalled.
-
+<br>
+<br>
 	Now let's delve into the errors and ethical solutions.
-
+<br>
 Why did MCAS fail? MCAS relied on the angle of attack sensor, which was known to often be unreliable and fail. A system that controls the plane independently of pilots should not rely on a faulty sensor. MCAS either should have relied on a different sensor or developed a better sensor, or MCAS should have been much easier to turn off. 
-
+<br>
 Why did MCAS only rely on one angle of attack sensors? There were two angle of attack sensors on each plane. Instead, they should rely on both angle of attack sensors. Do not violate safety protocols on redundancy.
-
+<br>
 Why did the pilots not turn off the MCAS system? The pilots did not know about MCAS for the first plane crash, and for the second were not able to turn it off before it crashed the plane. Boeing did not educate pilots about this new system because it could cause more training, which meant less profits for Boeing. Educating pilots if not doing so is possibly a fatal error. A better cost-benefit analysis for the company would highlight that the plane crashing costs the company more in consumer confidence than the training ever does.
-
+<br>
 Why did Boeing not train the pilots more? Boeing was incentivized by 1 million dollars per plane to not require new training. The FAA should ban agreements that put profits above safety.
-
+<br>
 Why did the FAA not stop the Boeing 737 Max planes when they had these major issues? The FAA did not know the extent that MCAS affected the planes because Boeing did not tell them. Boeing should have criminal penalties, not just civil penalties for withholding information from the FAA. Boeing specifically lobbied the FAA to limit additions in training. Though who specifically stopped the information is easily lost in the large corporation, finding the individual is important and necessary.
-
+<br>
+<br>
 Organizational Failures
-
+<br>
+<br>
 In the development of MCAS, there was a pilot who experienced catastrophic failures in the flight simulation for the plane. He did not follow up to ensure that the failure was reported to the correct authorities and fixed. 
+<br>
 Though the Angle of Attack sensor being faulty was a potentially fatal issue, Boeing made customers pay more for angle of attack faulty lights in order to increase profits, even though the cost to install the lights was very small. For such a fatal error in the design, Boeing should have focused more on safety instead of profits.
+<br>
 The engineers who designed the MCAS system were separated from the management, so that if there were issues, there was little the engineers could do to solve the disagreements.
 After the first plane crash, not only did Boeing did not ground their planes, even without fixing the MCAS issue.
+<br>
 The Boeing CEO, Dennis Muhlenberg, specifically pushed for risky designs in order to get more profits to stakeholders.
-	
+	<br>
+    <br>
 Effects of clear ethical failures:
+<br>
+<br>
 In order to design a more fuel-efficient and more profit generating plane, Boeing needed to add larger engines. Those engines could have been added to the original 737, just as previously with the only change being that the total plane height would increase. This would not severely affect the safety of the plane, it would rather need more pilot training to adjust to the increased height. This would have therefore cost Boeing more in needed to pay the airlines for creating more training. The agreement of 1 million dollars per plane for no new training is a large incentive, unfortunately, for a CEO who is hunting for increased profits. Therefore, the solution to the larger engines was to move them further back on the fuselage. This created the possibility for stall because of too much weight near the back of the plane that created the need for MCAS.
-	
+	<br>
+    <br>
 Conclusion
+<br>
+<br>
 Boeing had numerous ethical failures in their development of the Boeing 737 MAX and also how they treated safety on the plane after it was in use. Boeing needs to reevaluate their focus on their primary stakeholders of passengers, over their stakeholders of stockholders. The passengers will not continue to fly if they continue to prove to be a dangerous company. The FAA should also treat Boeing with much increased scrutiny going forward.
 
