@@ -7,12 +7,19 @@ image: /assets/images/git4.png
 ---
 
 The Boeing 737 Max incident was due to a failure of engineering ethics from the individual level to the systemic level. Multiple decisions across multiple years allowed for the disaster to occur. In reviewing the situation, it reveals that there is much to fix for engineer’s ethics across the board. 
+<br>
 To summarize the incident, the Boeing 737 Max had two fatal accidents, each of which killed all of its passengers. Each accident was due to the failure of the onboard MCAS system. The MCAS system pitched the nose down of the airplane if it ever detected that it was too high and the airplane had stalled.
+
 	Now let's delve into the errors and ethical solutions.
+
 Why did MCAS fail? MCAS relied on the angle of attack sensor, which was known to often be unreliable and fail. A system that controls the plane independently of pilots should not rely on a faulty sensor. MCAS either should have relied on a different sensor or developed a better sensor, or MCAS should have been much easier to turn off. 
+
 Why did MCAS only rely on one angle of attack sensors? There were two angle of attack sensors on each plane. Instead, they should rely on both angle of attack sensors. Do not violate safety protocols on redundancy.
+
 Why did the pilots not turn off the MCAS system? The pilots did not know about MCAS for the first plane crash, and for the second were not able to turn it off before it crashed the plane. Boeing did not educate pilots about this new system because it could cause more training, which meant less profits for Boeing. Educating pilots if not doing so is possibly a fatal error. A better cost-benefit analysis for the company would highlight that the plane crashing costs the company more in consumer confidence than the training ever does.
+
 Why did Boeing not train the pilots more? Boeing was incentivized by 1 million dollars per plane to not require new training. The FAA should ban agreements that put profits above safety.
+
 Why did the FAA not stop the Boeing 737 Max planes when they had these major issues? The FAA did not know the extent that MCAS affected the planes because Boeing did not tell them. Boeing should have criminal penalties, not just civil penalties for withholding information from the FAA. Boeing specifically lobbied the FAA to limit additions in training. Though who specifically stopped the information is easily lost in the large corporation, finding the individual is important and necessary.
 
 Organizational Failures
